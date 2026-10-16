@@ -1,5 +1,5 @@
 #primer linea
-print("¡Hola, Soy Manuel")
+print("¡Hola, Ya empece a aprender pythin y Github")
 #segunda linea
 print("Estoy aprendiendo python")
 #tercer linea
