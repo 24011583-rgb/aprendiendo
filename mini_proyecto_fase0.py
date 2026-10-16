@@ -1,2 +1,6 @@
-#Presentacion
-print("Hola soy José Manuel Guel Castro soy de la CDMX  y 3 metas que quiero lograr es aprender a meta 1 programar python, meta 2 crear un programa con base en pythin y 3 terminar mi carrera")
+#Fase1- Variables, tipos y entrada de datos
+nombre = "Guel"
+edad = "25"
+print(f"{nombre} tiene {edad} años")
+print(edad * 2)
+print(type (edad))
