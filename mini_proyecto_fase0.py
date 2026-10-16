@@ -1,0 +1,2 @@
+#Presentacion
+print("Hola soy José Manuel Guel Castro soy de la CDMX  y 3 metas que quiero lograr es aprender a meta 1 programar python, meta 2 crear un programa con base en pythin y 3 terminar mi carrera")
